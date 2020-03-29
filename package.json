@@ -1,0 +1,28 @@
+{
+  "name": "temp-gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "create-react-app temp-cal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoltzrobin/temp-gui.git"
+  },
+  "author": "Robin Stolz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoltzrobin/temp-gui/issues"
+  },
+  "homepage": "https://github.com/stoltzrobin/temp-gui#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "electron": "^8.2.0",
+    "global": "^4.4.0"
+  },
+  "devDependencies": {
+    "electron-builder": "^22.4.1"
+  }
+}
