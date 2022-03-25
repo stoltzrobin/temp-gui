@@ -19,7 +19,7 @@
   "homepage": "https://github.com/stoltzrobin/temp-gui#readme",
   "dependencies": {
     "create-react-app": "^3.4.1",
-    "electron": "^8.2.0",
+    "electron": "^13.6.6",
     "global": "^4.4.0"
   },
   "devDependencies": {
